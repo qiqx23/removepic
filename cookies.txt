@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.remove.bg	TRUE	/	FALSE	1999999999	__cfduid	d985c1ce02d9f9d3d727f281541069fb51546083412
-www.remove.bg	TRUE	/	FALSE	1999999999	__cflb	1519110207
-www.remove.bg	TRUE	/	FALSE	1999999999	_remove_bg_session	%2Fo3xCAnJwu%2B9YX0CdriMsuZLeXlhc%2Fd%2BQb%2FNI8EUbg%2B4CgWSx3hqI3IPZFnMVz2Yepw5SXNU3IhVWBJaCX1%2Bv8Rhbgk4FQlW5m2FlAMCOH9me9C8Q8c9n%2F24iAVFRpIY9xVLZ9i9%2FbrtE5PwhLc%3D--u656ABHNvJUoCki%2F--zefDrk1A88pG3g5R1cqeDw%3D%3D
-
